@@ -2,7 +2,7 @@
 
 def line(lineplace)
   line_array = []
-  if katz_deli.size == 0
+  if lineplace.length == 0
     puts "The line is currently empty."
   else
     puts "The line is currently: 1. a"
