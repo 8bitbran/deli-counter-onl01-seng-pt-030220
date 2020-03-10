@@ -7,8 +7,7 @@ def line(lineplace)
   else
     line_array.each_with_index(0) do |name, index|
       line_array.push("#{index}. #{name}")
-    puts "The line is currently: 1. a"
-  
+    puts "The line is currently: 1. "
   end
 end
 
