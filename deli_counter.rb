@@ -3,7 +3,8 @@
 katz_deli = []
 
 def line(katz_deli)
-  line_
+  line_pos = []
+  
 end
 
 def take_a_number(array, string)
