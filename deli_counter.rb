@@ -16,9 +16,6 @@ def line(katz_deli)
   end
 end
 
-def take_a_number(array, string)
-  line_place = []
-  array.each_with_index do |place|
-    
-  end
+def take_a_number(katz_deli, name)
+  
 end
