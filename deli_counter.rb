@@ -5,7 +5,7 @@ def line(lineplace)
   if lineplace.length == 0
     puts "The line is currently empty."
   else
-    line_array.each_with_index
+    line_array.each_with_index(0) 
     puts "The line is currently: 1. a"
   
   end
