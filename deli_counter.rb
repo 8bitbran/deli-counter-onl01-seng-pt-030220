@@ -4,7 +4,7 @@ katz_deli = []
 
 def line(katz_deli)
   line_pos = []
-  if
+  if katz_deli.empty?
 end
 
 def take_a_number(array, string)
