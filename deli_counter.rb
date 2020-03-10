@@ -6,7 +6,7 @@ def line(lineplace)
     puts "The line is currently empty."
   else
     line_array.each_with_index(0) do |name, index|
-      
+      line_array.push
     puts "The line is currently: 1. a"
   
   end
