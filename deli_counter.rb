@@ -1,7 +1,7 @@
 # Write your code here.
 
 def line(lineplace)
-  
+  line_array = 0
   if katz_deli.size == 0
     puts "The line is currently empty."
   else
